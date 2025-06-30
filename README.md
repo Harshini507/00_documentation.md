@@ -6,7 +6,7 @@ Welcome to the E-Commerce Website repository! This project is a simple yet funct
 
 ## 🌐 Live Demo
 
-[Click here to see the live website](https://github.com/Malini168/E-commerce-website-.git)
+[Click here to see the live website](https://github.com/Harshini507/E-commerce-website-.git)
 
 ---
 
@@ -41,7 +41,7 @@ To run the website locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Malini168/E-commerce-website-.git
+   git clone https://github.com/Harshini507/E-commerce-website-.git
 
 2. Navigate to the project folder:
 
@@ -66,9 +66,9 @@ This is a beginner-friendly project. Feel free to fork this repo and submit pull
 
 If you have any questions or suggestions, feel free to contact:
 
-GitHub: Malini168
+GitHub: Harshini507
 
-Email: manchamalini@gmail.com
+Email: harshinibathala@gmail.com
 
 
 
